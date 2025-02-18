@@ -1,6 +1,6 @@
 # 🎮 Games Hub - Python
 
-Hey, it's **Vijay**, your **BTech tech friend**! 🚀 Welcome to **Game Hub**, my tech-inspired world of **fun and games**. Let's **play and learn together**! 🎉
+Hey, it's **shanmukhi**, your **BTech tech friend**! 🚀 Welcome to **Game Hub**, my tech-inspired world of **fun and games**. Let's **play and learn together**! 🎉
 
 ---
 ## ✨ Features
@@ -59,9 +59,9 @@ Hey, it's **Vijay**, your **BTech tech friend**! 🚀 Welcome to **Game Hub**, m
 ---
 ## 🛠️ Getting Started
 
-🔹 **Download the source code:** [GameHub Project](https://github.com/Vijaykalyan23/GamesHub-Python.git)
+🔹 **Download the source code:** [GameHub Project](https://github.com/shanmukhialapati/gameshub-python.git)
 🔹 **Run the script** and have fun! 🎉
 
 ---
 ## 🙌 Thank You!
-👩‍💻 **Developed by:** Vijay kalyan ([Vijaykalyan23](https://github.com/Vijaykalyan23), GameHub)
+👩‍💻 **Developed by:** Alapati shanmukhi  ([shanmukhialapati(https://github.com/shanmukhialapati), GameHub)
